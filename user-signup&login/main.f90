@@ -1,4 +1,4 @@
-! User Sign-Up and Login system !
+! User Sign-Up and Login system ! 
   ! This is quite buggy, but I don't care.
   ! This was also amazingly fun to work on!
   ! I learnt so much about Fortran while working on this, like the "type" statement.
