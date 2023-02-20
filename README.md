@@ -10,6 +10,9 @@
     - I also showed the controls at the "bottom" of the screen.
         - To add onto that, you have to press enter after you enter in
           the key.
+          - e
+            - e
+              - e
 
 # Controls
 
