@@ -1,6 +1,9 @@
 MODULE user_mod
  ! ⤓ The type statement is like the struct keyword in C.
  TYPE User
+  ! I actually made all the contents in here private
+  ! as you can probably see from the getters, but I had to remove it
+  ! and I can't really remember why.
   CHARACTER(50) :: u_name
 
   INTEGER :: u_pin
